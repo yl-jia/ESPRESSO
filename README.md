@@ -2,9 +2,11 @@
 - scRNA-seq for N/TERT-2G
 
 ## 1_info_table
-> Meta data for single cell
-> UMAP coordinates
-> Cytotrace score
+> Meta data for single cell;
+> 
+> UMAP coordinates;
+> 
+> Cytotrace score.
 
 ## 2_stress_gene_info
 > Two methods used for stress check;
