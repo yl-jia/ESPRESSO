@@ -33,4 +33,5 @@ The used genesets are given in `code_for_plot.pdf`
 
 All code for new plot focusing on "Chromatin organization" and "Lysosome acidity"
 
-> The stress geneses plot was repotted using true value instead of scaled score, which is better to assess the general stress level.
+> The stress gene(set) plot was replotted using true value instead of scaled score, which is better to assess the general stress level.
+
