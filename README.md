@@ -28,3 +28,9 @@ Gene sets were obtained from [human MSigDB collections](https://www.gsea-msigdb.
 The used genesets are given in `code_for_plot.pdf`
 
 > There is no need to provide the gene list for the signatures used, as they are well-known and readily available in MSigDB.
+
+## code_for_plot.pdf
+
+All code for new plot focusing on "Chromatin organization" and "Lysosome acidity"
+
+> The stress geneses plot was repotted using true value instead of scaled score, which is better to assess the general stress level.
