@@ -29,6 +29,10 @@ The used genesets are given in `code_for_plot.pdf`
 
 > There is no need to provide the gene list for the signatures used, as they are well-known and readily available in MSigDB.
 
+## 4_selected_matrix_and_plot
+
+Updated selected Hallmarks and BP matrix.
+
 ## code_for_plot.pdf
 
 All code for new plot focusing on "Chromatin organization" and "Lysosome acidity"
