@@ -33,6 +33,22 @@ The used genesets are given in `code_for_plot.pdf`
 
 Updated selected Hallmarks and BP matrix.
 
+## 5_extra_plot
+
+All the plots are related to our previous discussion.
+
+`Review_BP_chromatin_Vlnplot.pdf`
+
+- New chromatin value distribution plot, check value.
+
+`Review_housekeeping_gene_plot.pdf`
+
+- Housekeeping genes used for comparing with stress genes.
+
+`Review_QC_plot_median gene_number.pdf`
+
+- Make clear the median gene number.
+
 ## code_for_plot.pdf
 
 All code for new plot focusing on "Chromatin organization" and "Lysosome acidity"
